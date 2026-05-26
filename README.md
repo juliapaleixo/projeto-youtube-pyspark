@@ -166,7 +166,7 @@ Leitura simples + `createOrReplaceTempView` + `spark.sql`. Sem controle de parti
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/projeto-youtube-pyspark.git
+git clone https://github.com/juliapaleixo/projeto-youtube-pyspark.git
 cd projeto-youtube-pyspark
 ```
 
